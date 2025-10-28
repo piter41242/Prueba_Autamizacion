@@ -18,9 +18,9 @@ Automatizar pruebas del formulario de contacto de Automation Practice mediante f
 - Java 8+
 
 ## Estructura
-
+![Estructura.png](src/test/resources/files/Estructura.png)
 ## Escenarios
-
+![Escenarios.png](src/test/resources/files/Escenarios.png)
 ### Envío exitoso con archivo
 - Dado: Usuario en página "Contact us"
 - Cuando: Completa formulario con datos válidos y archivo
@@ -42,7 +42,10 @@ Automatizar pruebas del formulario de contacto de Automation Practice mediante f
 - Campos obligatorios validados
 - Archivos adjuntos procesados
 - Navegación posterior funcional
-
+![Captura1.png](src/test/resources/files/Captura1.png)
+![Captura2.png](src/test/resources/files/Captura2.png)
+![Captura3.png](src/test/resources/files/Captura3.png)
+![Captura4.png](src/test/resources/files/Captura4.png)
 **Autor**: Piter Ruiz  
 **Estado**: COMPLETADO  
 **Branch**: dev/YonRuiz
