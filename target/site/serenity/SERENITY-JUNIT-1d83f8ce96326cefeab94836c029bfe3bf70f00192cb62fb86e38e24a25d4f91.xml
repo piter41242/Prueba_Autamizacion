@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Autenticación en la página de Facebook" skipped="0" tests="1" time="24.95" timestamp="2025-10-25 10:07:14"><testcase name="Verificar la autenticación exitosa en la página de Facebook"><failure message="Expected validacion login&#13;&#10;Expected: is &lt;true&gt;&#13;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected validacion login&#13;
+Expected: is &lt;true&gt;&#13;
+     but: was &lt;false&gt;</failure><system-err>Expected validacion login&#13;
+     Expected: is &lt;true&gt;&#13;
+     but: was &lt;false&gt;&#13;
+     co.com.AutoPractice.stepsdefinitions.PrcticeStepDefinitions.seDebeVerificarQueElUsuarioHayaSidoAutenticadoCorrectamenteYRedirigidoASuPáginaPrincipalASidoAutenticadoCorrectamenteYRedirigidoASuPnalePrincipal(AutenticacionStepDefinitions.java:32)&#13;
+     ✽.se debe verificar que el usuario haya sido autenticado correctamente y redirigido a su página principal a sido
+     autenticado correctamente y redirigido a su pnale
+     principal(src/test/resources/features/autentication_facebook.feature:15)&#13;
+</system-err></testcase></testsuite>
