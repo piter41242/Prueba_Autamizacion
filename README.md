@@ -30,7 +30,8 @@ Automatizar pruebas del formulario de contacto de Automation Practice mediante f
 - Dado: Usuario en página "Contact us"
 - Cuando: Completa formulario sin email
 - Entonces: Muestra error "Invalid email address"
-
+## Repositorio
+### https://github.com/piter41242/Prueba_Autamizacion.git
 ## Comandos
 - ./gradlew test
 - git add .
